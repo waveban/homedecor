@@ -6,8 +6,8 @@ define('DB_PASS', 'password');
 define('DB_NAME', 'interior_mosaic');
 
 // MeiliSearch configuration
-define('MEILISEARCH_HOST', 'https://ms.fadunews.in');
-define('MEILISEARCH_KEY', 'amrut19miskinamrut19miskin');
+define('MEILISEARCH_HOST', 'https://ms.xxxxxxxxx.in');
+define('MEILISEARCH_KEY', 'xxxxxxxxxxxxxxxx');
 define('MEILISEARCH_INDEX', 'home');
 
 // Site configuration
